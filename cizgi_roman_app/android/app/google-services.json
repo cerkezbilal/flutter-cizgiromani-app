@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "343136096379",
+    "project_id": "cizgiromanapp",
+    "storage_bucket": "cizgiromanapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343136096379:android:8e197c28ff706f287b12de",
+        "android_client_info": {
+          "package_name": "com.bilalkarademir.cizgi_roman_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343136096379-olr1kp1fnttr27e78ghou9hl2ftmk9kg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDusGhTmEwecgZwUOMkkZFHal3a-z5Je8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343136096379-olr1kp1fnttr27e78ghou9hl2ftmk9kg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
